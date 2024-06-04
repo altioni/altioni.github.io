@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://altioni.github.io/sitemap.html
+Sitemap: https://altioni.github.io/app/sitemap.html
+Sitemap: https://altioni.github.io/assets/sitemap.html
+Sitemap: https://altioni.github.io/includes/sitemap.html
+Sitemap: https://altioni.github.io/src/sitemap.html
